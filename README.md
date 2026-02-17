@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @KevinMactoo
-- 👀 I’m interested in website and app development
-- 🌱 I’m currently learning reactJs
-- 💞️ I’m looking to collaborate on react projects
+- 👋 Hi, I’m @KevinMactoo,
+Documenting progress as I continue learning DevSecOps principles and integrating security into the development workflow.
 - 📫 How to reach me mactoo.developer@gmail.com
 
 <!---
